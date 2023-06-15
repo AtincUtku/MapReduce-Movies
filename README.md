@@ -82,4 +82,4 @@ I redirected the outputs to the related .txt files in "outputs" folder. Also out
 raw versions fetched from hadoop file system with "hdfs dfs -get <hdfs_directory_name> <local_move_directory>".
 
 Atınç Utku Alparslan
-2380061
+
